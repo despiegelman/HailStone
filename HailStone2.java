@@ -20,6 +20,6 @@ public class HailStone2 {
                 maxNum = i;
             } 
         }
-        System.out.println(max + ", " + maxNum);
+        System.out.println("For the starting number " + max + ", there were " + maxNum + " iterations before the cycle was reached.");
     }
 }
